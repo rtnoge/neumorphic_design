@@ -105,7 +105,7 @@ class MyHomePage extends StatelessWidget {
                     shape: NeumorphicShape.concave,
                     boxShape:
                         NeumorphicBoxShape.roundRect(BorderRadius.circular(8)),
-                    depth: 5,
+                    depth: -3,
                     lightSource: LightSource.topLeft,
                     color: Colors.grey[300]
                     //border: NeumorphicBorder()
